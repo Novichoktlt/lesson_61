@@ -26,7 +26,7 @@ public class ConsoleProductRender implements ProductRender {
                 noProduct = true;
             }
         }
-        
+
         if (Render.id.equals("new")) {
             noProduct = true;
             System.out.println("Создана новая корзина");
