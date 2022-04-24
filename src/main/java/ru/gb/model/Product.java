@@ -1,17 +1,16 @@
-package ru.gb;
+package ru.gb.model;
 
 
 import lombok.*;
-import org.springframework.stereotype.Component;
+
 
 @Getter
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Component
 public class Product {
-    private String id;
+    private Integer id;
     private String title;
     private String price;
 }

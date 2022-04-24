@@ -1,7 +1,7 @@
-package ru.gb;
-
-
-public interface ProductRenderCart {
-    ProductProvider getProductProvider();
-    void setProductProvider(ProductProvider provider);
-}
+//package ru.gb;
+//
+//
+//public interface ProductRenderCart {
+//    ConsoleProductRender.ProductProvider getProductProvider();
+//    void setProductProvider(ConsoleProductRender.ProductProvider provider);
+//}

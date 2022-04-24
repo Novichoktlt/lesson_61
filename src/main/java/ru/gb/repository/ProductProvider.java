@@ -1,4 +1,6 @@
-package ru.gb;
+package ru.gb.repository;
+
+import ru.gb.model.Product;
 
 import java.util.List;
 
